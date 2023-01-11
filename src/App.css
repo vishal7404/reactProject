@@ -1,0 +1,22 @@
+:root {
+  --textColor: #fff;
+  --textColorDark: #000;
+  --colorPrimary: #05f3f3;
+  --colorPrimaryDark: #099D9D;
+}
+
+body {
+  background: #fff !important;
+  color: #fff;
+  overflow-x: hidden !important;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}
+
+a {
+  text-decoration: none !important;
+
+}
